@@ -2,6 +2,7 @@
 
 1. **Group members:** Anna Zagrai
 2. **Git repository:** https://github.com/zag-anna/Networks-project-3.git
+(I only pushed the code to the Git once it was errorless)
 
 ## Compile / run (Python 3.8+, no third-party packages)
 ```
