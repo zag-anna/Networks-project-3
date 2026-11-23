@@ -1,7 +1,7 @@
 # CSCI/IT 3053 – Project 3: Star of Stars (SoSs) with Bridge and Firewall
 
-1. **Group members:** (fill in)
-2. **Git repository:** (fill in link)  — paste per-member `git shortlog -sn` stats here.
+1. **Group members:** Anna Zagrai
+2. **Git repository:** https://github.com/zag-anna/Networks-project-3.git
 
 ## Compile / run (Python 3.8+, no third-party packages)
 ```
