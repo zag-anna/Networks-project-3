@@ -1,0 +1,7 @@
+2_2: alpha india golf india golf hotel juliet charlie
+3_2: alpha india
+3_1: india foxtrot delta india delta golf bravo alpha
+3_3: bravo golf charlie bravo
+2_1: alpha
+2_3: hotel charlie
+1_2: bravo juliet

@@ -1,0 +1,6 @@
+2_1: india
+1_2: hotel kilo echo delta golf
+2_1: foxtrot foxtrot bravo bravo bravo hotel
+3_3: golf juliet
+2_2: bravo kilo delta hotel bravo
+1_4: lima golf juliet delta

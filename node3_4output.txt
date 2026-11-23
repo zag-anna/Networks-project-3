@@ -1,0 +1,7 @@
+2_3: alpha alpha india delta echo kilo golf echo
+3_1: juliet bravo india hotel bravo foxtrot kilo foxtrot
+1_1: delta charlie kilo echo india
+3_2: lima alpha delta hotel delta charlie lima charlie
+1_4: foxtrot lima delta charlie lima
+1_3: india india foxtrot echo echo
+2_4: alpha golf echo echo

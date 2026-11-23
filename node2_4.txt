@@ -1,0 +1,6 @@
+1_2: hotel
+3_2: alpha lima echo golf india
+1_3: alpha echo foxtrot
+3_2: india alpha india delta
+2_1: hotel echo alpha
+3_4: alpha golf echo echo

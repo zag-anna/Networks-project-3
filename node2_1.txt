@@ -1,0 +1,6 @@
+2_3: kilo hotel alpha juliet india
+1_3: foxtrot
+1_2: echo india juliet
+1_1: alpha
+2_4: echo lima lima india india
+1_2: charlie juliet alpha charlie

@@ -1,0 +1,7 @@
+1_4: golf india charlie india delta alpha foxtrot
+1_3: echo hotel bravo charlie hotel foxtrot
+2_2: kilo
+1_2: delta delta hotel alpha foxtrot
+2_2: foxtrot hotel foxtrot lima delta
+2_1: echo lima lima india india
+2_3: charlie delta bravo

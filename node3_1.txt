@@ -1,0 +1,6 @@
+3_4: juliet bravo india hotel bravo foxtrot kilo foxtrot
+1_1: india foxtrot delta india delta golf bravo alpha
+1_2: kilo bravo lima juliet juliet juliet
+3_3: charlie india delta kilo
+3_3: kilo bravo india juliet bravo
+2_2: juliet lima kilo kilo
